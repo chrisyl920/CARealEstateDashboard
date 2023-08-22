@@ -3,7 +3,7 @@ Goal: To determine which zip codes have the highest growth rate for residential 
 
 Data to extract:
 - Data that includes Real Estate Sales Prices by zip code throughout different years
-- 
+- Convert Government Data into a GeoJSON in order to build a choropleth map
 Normalizing Data: 
 -Account for Economic Recessions, Inflation,
 
